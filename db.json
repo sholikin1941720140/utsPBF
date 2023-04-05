@@ -7,7 +7,7 @@
       "alamat": "Malang",
       "hp": "081216055665",
       "angkatan": "19",
-      "status": "Aktif",
+      "status": "Aktif"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "alamat": "Malang",
       "hp": "00880808",
       "angkatan": "20",
-      "status": "Cuti",
+      "status": "Cuti"
     }
   ],
   "comments": [
