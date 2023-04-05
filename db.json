@@ -1,35 +1,32 @@
 {
-    "mahasiswa" : 
-        [
-            {
-                "id" : 1,
-                "nama" : "jono",
-                "alamat" : "malang"
-            },
-            {
-                "id" : 2,
-                "nama" : "jojon",
-                "alamat" : "pasuruan"
-            },
-            {
-                "id" : 3,
-                "nama" : "jujun",
-                "alamat" : "pasuruan"
-            }
-        ],
-    "organisasi": [
-            {"id" : 1, "nama" : "HMTI", "sekretariat" : "Gedung AS"},
-            {"id" : 2, "nama" : "RISPOL", "sekretariat" : "Gedung AS"},
-            {"id" : 3, "nama" : "PASTI", "sekretariat" : "Gedung AS"},
-            {"id" : 4, "nama" : "USMA", "sekretariat" : "Gedung AS"},
-            {"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
-        ],
-     "kuis1": [
-        {"Judul": "Jenis - Jenis Kopi", "Gambar" : "biji kopi.jpg", "Isi" : " Hampir semua jenis tanaman kopi bisa ditanam di Indonesia"},
-        {"Judul": "Metode - Metode menyeduh Kopi", "Gambar" : "metode seduh.jpg", "Isi" : "Banyak metode untuk menyeduh kopi"}
-        ],
-    "makanan": [
-        {"id": 1, "Makanan" : "Crispy Chicken Wings with Thai Basil Chilli", "image" : "chicken.jpg"},
-        {"id": 2, "Makanan" : "Green Curry Quiche", "image" : "curry.jpg"}
-        ]
+  "mahasiswa": [
+    {
+      "id": 1,
+      "NIM": "1941720160",
+      "nama": "Micin",
+      "alamat": "Malang",
+      "hp": "081216055665",
+      "angkatan": "19",
+      "status": "Aktif",
+    },
+    {
+      "id": 2,
+      "NIM": "1941720155",
+      "nama": "Khalid",
+      "alamat": "Malang",
+      "hp": "00880808",
+      "angkatan": "20",
+      "status": "Cuti",
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
